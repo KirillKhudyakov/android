@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="fio">Худяков К.В.\nБпи162</string>
+    <string name="activity1">Activity 1</string>
+    <string name="hint">Enter text</string>
+    <string name="buttonText">GO</string>
+
+    <string name="act2">Activity 2</string>
+    <string name="uEntered">You Entered:</string>
+    <string name="go_back">GO BACK</string>
+</resources>

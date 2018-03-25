@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App8</string>
+    <string name="appwidget_text">GO TO THE SITE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="config_label">Enter web-site address</string>
+    <string name="address_beginning">http://</string>
+</resources>
